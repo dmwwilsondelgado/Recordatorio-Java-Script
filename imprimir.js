@@ -4,7 +4,7 @@
 
 let = tamañodelarreglo = parseInt(prompt("Ingresa el tamaño del arreglo"));
 
-// arreglo1 = [1,2,3,4,5,6,7,89,10,11,12,13,14,15,16,17,18,19,20]
+arreglo1 = [1,2,3,4,5,6,7,89,10,11,12,13,14,15,16,17,18,19,20]
 arreglo = []
 
 for (let i = 1; i <= Imprimirarreglo; i++) {

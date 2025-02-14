@@ -9,6 +9,7 @@
 
 
 
+
 let a = parseInt(prompt("ingrese una inicial"));
 let b = parseInt(prompt("ingrese un final"));
 const c = [1 ,20 ,50 ,40 ,4 ,6 ,9 ,88 ,51];
